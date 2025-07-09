@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color: #7c73e6;
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color:white;
+      border: solid;
+      display:inline-block;
+      border-color: black;
+}
+.location{
+    display:flex;
+}
+button{
+    color:white;
+    background-color: black;
+    padding: 10px;
+}
+.location{
+    text-align: center;
+}
+h2{
+    text-align: left;
+}
+pre{
+    font-family: Arial;
+}
+html{
+    justify-content: center;
+    display: flex;
+}
+div{
+    background-color: purple;
+    height: 71.5%;
+}
